@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Flat Information)">7b5838ec97311110bca8f8971153af0a</button>
+        <item_parameter display_value="Flat Information given_on_rent">bf5838ec97311110bca8f8971153af07</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-04 09:07:21</sys_created_on>
+        <sys_id>f35838ec97311110bca8f8971153af11</sys_id>
+        <sys_name>bf5838ec97311110bca8f8971153af07</sys_name>
+        <sys_package display_value="Visitor Entry Management" source="x_642325_visitor_0">bfbaa42497311110bca8f8971153af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Entry Management">bfbaa42497311110bca8f8971153af4f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_f35838ec97311110bca8f8971153af11</sys_update_name>
+        <ui_parameter display_value="Given on Rent">bf5838ec97311110bca8f8971153af0b</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
