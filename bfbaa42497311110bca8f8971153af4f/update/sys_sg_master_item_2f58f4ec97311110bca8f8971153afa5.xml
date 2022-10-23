@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_642325_visitor_0_flat_information</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Flat Information Form Screen">6358f4ec97311110bca8f8971153afa2</embedded_screen>
+        <item_view/>
+        <name>Flat Information master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-04 09:07:21</sys_created_on>
+        <sys_id>2f58f4ec97311110bca8f8971153afa5</sys_id>
+        <sys_name>Flat Information master_item</sys_name>
+        <sys_package display_value="Visitor Entry Management" source="x_642325_visitor_0">bfbaa42497311110bca8f8971153af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Entry Management">bfbaa42497311110bca8f8971153af4f</sys_scope>
+        <sys_update_name>sys_sg_master_item_2f58f4ec97311110bca8f8971153afa5</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Flat Information List Screen View Config">6b58f4ec97311110bca8f8971153af3b</view_config>
+    </sys_sg_master_item>
+</record_update>

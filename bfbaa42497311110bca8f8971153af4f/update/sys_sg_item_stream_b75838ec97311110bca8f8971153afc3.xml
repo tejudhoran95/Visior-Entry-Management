@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Visitor Entry Management Visitor">bb5838ec97311110bca8f8971153af2c</data_item>
+        <interleaved_field/>
+        <name>Visitor Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-04 09:07:22</sys_created_on>
+        <sys_id>b75838ec97311110bca8f8971153afc3</sys_id>
+        <sys_name>Visitor Item Stream</sys_name>
+        <sys_package display_value="Visitor Entry Management" source="x_642325_visitor_0">bfbaa42497311110bca8f8971153af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Entry Management">bfbaa42497311110bca8f8971153af4f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_b75838ec97311110bca8f8971153afc3</sys_update_name>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

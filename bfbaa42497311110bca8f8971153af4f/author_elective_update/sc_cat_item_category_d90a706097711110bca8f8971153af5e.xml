@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="New Visitor Entry">ce39742097711110bca8f8971153afc6</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-04 09:14:34</sys_created_on>
+        <sys_id>d90a706097711110bca8f8971153af5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.New Visitor Entry</sys_name>
+        <sys_package display_value="Visitor Entry Management" source="x_642325_visitor_0">bfbaa42497311110bca8f8971153af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Entry Management">bfbaa42497311110bca8f8971153af4f</sys_scope>
+        <sys_update_name>sc_cat_item_category_d90a706097711110bca8f8971153af5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-04 09:14:34</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Visitor Entry Management">bfbaa42497311110bca8f8971153af4f</application>
+        <file_path/>
+        <instance_id>394dd6dbdb194150e03ad7c8f496190f</instance_id>
+        <instance_name>dev123934</instance_name>
+        <name>sc_cat_item_category_d90a706097711110bca8f8971153af5e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="New Visitor Entry">ce39742097711110bca8f8971153afc6</sc_cat_item><sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-04 09:14:34</sys_created_on><sys_id>d90a706097711110bca8f8971153af5e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Services.New Visitor Entry</sys_name><sys_package display_value="Visitor Entry Management" source="x_642325_visitor_0">bfbaa42497311110bca8f8971153af4f</sys_package><sys_policy/><sys_scope display_value="Visitor Entry Management">bfbaa42497311110bca8f8971153af4f</sys_scope><sys_update_name>sc_cat_item_category_d90a706097711110bca8f8971153af5e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-04 09:14:34</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>162744545</payload_hash>
+        <record_name>Services.New Visitor Entry</record_name>
+        <reverted_from/>
+        <source>f7baa42497311110bca8f8971153af52</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-04 09:14:34</sys_created_on>
+        <sys_id>e50a706097711110bca8f8971153af69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18307c7bfaf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-04 09:14:34</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>6d0a7060777111101c68d8b2dc1b9f68</update_guid>
+        <update_guid_history>6d0a7060777111101c68d8b2dc1b9f68:162744545</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.New Visitor Entry">075af46097711110bca8f8971153af9a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-04 09:16:03</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>17cea294883c46a08b681d7cfd613900</sys_id>
+        <sys_metadata>d90a706097711110bca8f8971153af5e</sys_metadata>
+        <sys_name>Services.New Visitor Entry</sys_name>
+        <sys_package display_value="Visitor Entry Management" source="x_642325_visitor_0">bfbaa42497311110bca8f8971153af4f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Entry Management">bfbaa42497311110bca8f8971153af4f</sys_scope>
+        <sys_scope_delete display_value="">003bf256f1b343fa8000147ffb0a51d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_d90a706097711110bca8f8971153af5e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_d90a706097711110bca8f8971153af5e">e50a706097711110bca8f8971153af69</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

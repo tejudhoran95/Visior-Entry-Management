@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>number-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-04 09:07:21</sys_created_on>
+        <sys_id>eb58f4ec97311110bca8f8971153af6a</sys_id>
+        <sys_name>number-FieldValue</sys_name>
+        <sys_package display_value="Visitor Entry Management" source="x_642325_visitor_0">bfbaa42497311110bca8f8971153af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Entry Management">bfbaa42497311110bca8f8971153af4f</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_eb58f4ec97311110bca8f8971153af6a</sys_update_name>
+        <view_config display_value="Flat Information Detail Screen View Config">ef58f4ec97311110bca8f8971153af56</view_config>
+        <view_template_slot display_value="text_03">ef5ef07841e35010f877183fc9b8be34</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

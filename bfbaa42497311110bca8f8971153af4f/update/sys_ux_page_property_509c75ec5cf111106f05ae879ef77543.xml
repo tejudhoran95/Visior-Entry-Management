@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Contains references to global search configurations to be consumed by search components</description>
+        <name>global_search_configurations</name>
+        <page display_value="Visitor Entry Management">589c75eccbf111100ba9bd5a6d0ae442</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-04 14:05:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>509c75ec5cf111106f05ae879ef77543</sys_id>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Visitor Entry Management" source="x_642325_visitor_0">bfbaa42497311110bca8f8971153af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Entry Management">bfbaa42497311110bca8f8971153af4f</sys_scope>
+        <sys_update_name>sys_ux_page_property_509c75ec5cf111106f05ae879ef77543</sys_update_name>
+        <type>json</type>
+        <unique_name>x_642325_visitor_0.589c75eccbf111100ba9bd5a6d0ae442.root.global_search_configurations</unique_name>
+        <value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=509c75ec5cf111106f05ae879ef77543"/>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5a0b682497311110bca8f8971153aff2" label="Flat Information" max_length="40" name="x_642325_visitor_0_flat_information" type="collection">
+        <element choice="1" label="Floor" max_length="40" name="floor" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="10" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="20" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="30" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="40" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="50" value="5"/>
+            </choice>
+        </element>
+        <element label="Given on Rent" max_length="40" name="given_on_rent" type="boolean"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return current.wing.getDisplayValue() +' - '+current.number;  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Name" max_length="40" name="name" type="string" virtual="true"/>
+        <element label="Number" max_length="40" name="number" type="integer"/>
+        <element label="Owners" max_length="4000" name="owner" reference="sys_user" type="glide_list"/>
+        <element label="Tenants" max_length="4000" name="tenents" reference="sys_user" type="glide_list"/>
+        <element choice="1" label="Wing" max_length="40" name="wing" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="A" sequence="10" value="a"/>
+                <element inactive_on_update="false" label="B" sequence="20" value="b"/>
+                <element inactive_on_update="false" label="C" sequence="30" value="c"/>
+            </choice>
+        </element>
+    </element>
+</database>

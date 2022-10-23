@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="purpose" table="x_642325_visitor_0_visitor" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>purpose</element>
+            <name>x_642325_visitor_0_visitor</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-04 08:34:04</sys_created_on>
+            <sys_name>purpose</sys_name>
+            <sys_package display_value="Visitor Entry Management" source="x_642325_visitor_0">bfbaa42497311110bca8f8971153af4f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Visitor Entry Management">bfbaa42497311110bca8f8971153af4f</sys_scope>
+            <sys_update_name>sys_choice_x_642325_visitor_0_visitor_purpose</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>purpose</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Delivery</label>
+            <language>en</language>
+            <name>x_642325_visitor_0_visitor</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-04 08:34:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>delivery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>purpose</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Courier</label>
+            <language>en</language>
+            <name>x_642325_visitor_0_visitor</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-04 08:34:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>courier</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>purpose</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Guest</label>
+            <language>en</language>
+            <name>x_642325_visitor_0_visitor</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-04 08:34:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>guest</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>purpose</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Friend</label>
+            <language>en</language>
+            <name>x_642325_visitor_0_visitor</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-04 08:34:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>friend</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>purpose</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Trainer</label>
+            <language>en</language>
+            <name>x_642325_visitor_0_visitor</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-04 08:34:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>trainer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>purpose</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Maid/Housekeeping</label>
+            <language>en</language>
+            <name>x_642325_visitor_0_visitor</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-04 08:34:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>maid_housekeeping</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>purpose</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_642325_visitor_0_visitor</name>
+            <sequence>70</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-04 08:34:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>other</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

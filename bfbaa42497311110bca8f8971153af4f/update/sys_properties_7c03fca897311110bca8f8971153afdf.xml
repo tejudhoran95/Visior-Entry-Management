@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Visitor activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_642325_visitor_0_visitor_activity.fields</name>
+        <read_roles/>
+        <suffix>x_642325_visitor_0</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-04 08:43:57</sys_created_on>
+        <sys_id>7c03fca897311110bca8f8971153afdf</sys_id>
+        <sys_name>glide.ui.x_642325_visitor_0_visitor_activity.fields</sys_name>
+        <sys_package display_value="Visitor Entry Management" source="x_642325_visitor_0">bfbaa42497311110bca8f8971153af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Entry Management">bfbaa42497311110bca8f8971153af4f</sys_scope>
+        <sys_update_name>sys_properties_7c03fca897311110bca8f8971153afdf</sys_update_name>
+        <type>string</type>
+        <value>number,flat,visitor_name,purpose,other_purpose,in_time,out_time,additional_comments,*Email*</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=7c03fca897311110bca8f8971153afdf"/>
+</record_update>
